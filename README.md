@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Lorenzo Ferrassa
 
-<!--
-**FabioLorenzo-tech/FabioLorenzo-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Focado em Cibersegurança, Linux e Redes  
+💻 Em busca de oportunidades de estágio em TI
 
-Here are some ideas to get you started:
+### ⚡ Em estudo:
+- Kali Linux e fundamentos de pentest
+- Redes de computadores e segurança da informação
+- Lógica de programação com Python
+- Fundamentos da LGPD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Meus projetos:
+- [CyberLabs-Kali](https://github.com/FabioLorenzo-tech/CyberLabs-Kali) *(em breve)*
+- [Logica-de-Programacao](https://github.com/FabioLorenzo-tech/Logica-de-Programacao) *(em breve)*
+
+📫 Contato: fabiolorenzo1221@gmail.com
