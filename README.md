@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Lorenzo Ferrassa
+## 👋 Olá! Eu sou o Fabio Lorenzo Ferrassa
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🔐 Focado em Cibersegurança, Linux e Redes  
