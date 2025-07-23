@@ -15,7 +15,7 @@
 ---
 
 ### 📂 Meus projetos:
-- 🔒 [CyberLabs-Kali](https://github.com/FabioLorenzo-tech/CyberLabs-Kali) *(em breve)*
+- 🔒 [CyberLabs-Kali](https://github.com/FabioLorenzo-tech/CyberLabs-Kali)
 - 🧠 [Logica-de-Programacao](https://github.com/FabioLorenzo-tech/Logica-de-Programacao) *(em breve)*
 
 ---
