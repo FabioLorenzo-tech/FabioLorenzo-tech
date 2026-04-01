@@ -4,7 +4,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-Reconhecimento-red)
 ![Python](https://img.shields.io/badge/Python-Dev-yellow)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Networking-lightblue)
-![Linux](https://img.shields.io/badge/Linux-Admin-green)
+![Linux](https://img.shields.io/badge/Linux-green)
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🔐 Apaixonado por **Cibersegurança**, **Linux** e **Redes de Computadores**  
