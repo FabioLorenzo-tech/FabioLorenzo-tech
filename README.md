@@ -2,7 +2,6 @@
 
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-Pentest-blue)
 ![Nmap](https://img.shields.io/badge/Nmap-Reconhecimento-red)
-![Python](https://img.shields.io/badge/Python-Dev-yellow)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Networking-lightblue)
 ![Linux](https://img.shields.io/badge/Linux-green)
 
