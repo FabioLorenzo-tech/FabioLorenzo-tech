@@ -7,7 +7,6 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🔐 Apaixonado por **Cibersegurança**, **Linux** e **Redes de Computadores**  
-💼 Em busca de oportunidades de **estágio na área de TI**
 
 ---
 
