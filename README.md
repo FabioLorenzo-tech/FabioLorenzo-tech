@@ -16,6 +16,8 @@
 - 🌐 Redes de computadores e segurança da informação
 - 🐍 Lógica de programação com Python
 - 📜 Fundamentos da LGPD
+- 📊 Monitoramento com Grafana e Prometheus
+- 🪤 Honeypots e análise de ataques
 
 ---
 
