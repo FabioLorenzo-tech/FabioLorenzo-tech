@@ -24,7 +24,7 @@
 - 🔒 [CyberLabs-Kali](https://github.com/FabioLorenzo-tech/CyberLabs-Kali)
 - 🧠 [Logica-de-Programacao](https://github.com/FabioLorenzo-tech/-Logica-de-Programa-o)
 - 🧹🚪 [varredura-portas-analise](https://github.com/FabioLorenzo-tech/varredura-portas-analise)
-
+- 🪤[Honeypots](https://github.com/FabioLorenzo-tech/Cowrie-Honeypot-Lab.git)
 ---
 
 📫 **Contato:** fabiolorenzo1221@gmail.com
